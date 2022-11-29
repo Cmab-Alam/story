@@ -1,1 +1,18 @@
 my naem is seemab alam and i am enjoying git.
+
+
+git status 
+git add chapter1.txt --->staging area before commit
+git status
+git commit -m "message1"
+git log
+git add .---> to put all not included files in staging area.
+
+
+working directory
+staging area
+local repository
+
+git diff
+git checkout
+

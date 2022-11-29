@@ -16,3 +16,8 @@ local repository
 git diff
 git checkout
 
+
+
+master main branch
+git remove remote origin
+

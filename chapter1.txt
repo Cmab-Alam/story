@@ -21,3 +21,12 @@ git checkout
 master main branch
 git remove remote origin
 
+touch .gitignore
+git rm --cached -r . -->to unstage all file
+
+*.txt
+
+git clone url
+
+
+

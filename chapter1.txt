@@ -27,6 +27,9 @@ git rm --cached -r . -->to unstage all file
 *.txt
 
 git clone url
+this is very good to master git nowdays
+
+
 
 
 
